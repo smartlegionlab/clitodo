@@ -1,7 +1,7 @@
 # --------------------------------------------------------
 # Licensed under the terms of the BSD 3-Clause License
 # (see LICENSE for details).
-# Copyright © 2018-2024, A.A. Suvorov
+# Copyright © 2026, Alexander Suvorov
 # All rights reserved.
 # --------------------------------------------------------
 from smartcliapp.informer import Informer
@@ -16,5 +16,5 @@ class AppMan(Informer):
     title = 'Cli ToDo'
     description = 'Console task manager'
     version = __version__
-    copyright = 'Copyright © 2018-2024, A.A. Suvorov'
+    copyright = 'Copyright © 2026, Alexander Suvorov'
     url = 'https://github.com/smartlegionlab/'
